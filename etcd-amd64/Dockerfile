@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.17
+FROM gcr.io/google_containers/etcd-amd64:3.2.18
 MAINTAINER steve <ybzhang@126.com>
